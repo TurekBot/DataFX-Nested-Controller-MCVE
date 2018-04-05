@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nested Controller DataFX MCVE.iml" filepath="$PROJECT_DIR$/.idea/modules/Nested Controller DataFX MCVE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nested_Controller_DataFX_MCVE.iml" filepath="$PROJECT_DIR$/.idea/modules/Nested_Controller_DataFX_MCVE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nested_Controller_DataFX_MCVE_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Nested_Controller_DataFX_MCVE_main.iml" group="Nested_Controller_DataFX_MCVE" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Nested_Controller_DataFX_MCVE_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Nested_Controller_DataFX_MCVE_test.iml" group="Nested_Controller_DataFX_MCVE" />
+    </modules>
+  </component>
+</project>
